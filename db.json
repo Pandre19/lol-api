@@ -2,7 +2,7 @@
   "champions": [
     {
       "id": 1,
-      "teemo_runas": "C:\\runas\\teemo-runas.png",
+      "teemo_runas": "runas\\teemo-runas.png",
       "teemo_tipo": "ap"
     },
     {
