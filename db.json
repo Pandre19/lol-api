@@ -1,0 +1,14 @@
+{
+  "champions": [
+    {
+      "id": 1,
+      "teemo_runas": "brujería",
+      "teemo_tipo": "ap"
+    },
+    {
+      "id": 2,
+      "akali_runas": "precisión",
+      "akali_tipo": "ap"
+    }
+  ]
+}
