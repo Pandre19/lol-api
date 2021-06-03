@@ -2,7 +2,7 @@
   "champions": [
     {
       "id": 1,
-      "teemo_runas": "runas\\teemo-runas.png",
+      "teemo_runas": "C:\\Json\\lol-api\\runas\\teemo-runas.png",
       "teemo_tipo": "ap"
     },
     {
