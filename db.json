@@ -10,5 +10,11 @@
       "akali_runas": "precisión",
       "akali_tipo": "ap"
     }
+    ,
+    {
+      "id": 3,
+      "gnar_runas": "lo verde",
+      "gnar_tipo": "ap"
+    }
   ]
 }
