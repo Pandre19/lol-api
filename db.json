@@ -2,7 +2,7 @@
   "champions": [
     {
       "id": 1,
-      "teemo_runas": "C:\\Json\\lol-api\\runas\\teemo-runas.png",
+      "teemo_runas": "1er cuadro: Brujería (1) (2) (3) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (2)",
       "teemo_tipo": "ap"
     },
     {
