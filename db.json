@@ -3,18 +3,268 @@
     {
       "id": 1,
       "teemo_runas": "1er cuadro: Brujería (1) (2) (3) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (2)",
-      "teemo_tipo": "ap"
+      "teemo_counters": "Irelia\nAatrox\nFiora\nRiven\nGangplank",
+      "teemo_hacecounter": "Shen\nCamile\nKayle\nSylas\nGwen"
     },
     {
       "id": 2,
-      "akali_runas": "precisión",
-      "akali_tipo": "ap"
-    }
-    ,
+      "akali_runas": "1er cuadro: Precisión (4) (3) (2) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (1) (1) (2)",
+      "akali_hacecounter": "Malphite\nShen\nKayle\nAnnie\nEkko",
+      "akali_counters": "Gangplank\nLucian\nRenekton\nIrelia\nPantheon"
+    },
     {
       "id": 3,
-      "gnar_runas": "lo verde",
-      "gnar_tipo": "ap"
+      "talon_runas": "1er cuadro: Dominación (1) (2) (3) (3) \n2do cuadro: Brujería (3) (3) (0)\n3er cuadro: (1) (1) (3)",
+      "talon_hacecounter": "Kassadin\nMalzahar\nGalio\nAkali\nXerath",
+      "talon_counters": "Lucian\nIrelia\nZed"
+    },
+    {
+      "id": 4,
+      "ekko_runas": "1er cuadro: Dominación (3) (3) (3) (1) \n2do cuadro: Inspiración (1) (2) (0)\n3er cuadro: (2) (1) (2)",
+      "ekko_hacecounter": "Malzahar\nZac\nVeigar\nViktor\nGragas",
+      "ekko_counters": "Lucian\nUdyr\nKindred\nZed\nRengar"
+    },
+    {
+      "id": 5,
+      "yasuo_runas": "1er cuadro: Precisión (4) (2) (1) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "yasuo_hacecounter": "Veigar\nGalio\nLux\nTwisted\nXerath",
+      "yasuo_counters": "Tryndamere\nViego\nIrelia\nPantheon\nZed"
+    },
+    {
+      "id": 6,
+      "gnar_runas": "1er cuadro: Valor (1) (1) (3) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "gnar_hacecounter": "Kayle\nShen\nSinged\nCho'gath\nNasus",
+      "gnar_counters": "Irelia\nKled\nTryndamere\nRenekton\nAatrox"
+    },
+    {
+      "id": 7,
+      "mordekaiser_runas": "1er cuadro: Precisión (4) (2) (2) (3) \n2do cuadro: Valor (0) (2) (1)\n3er cuadro: (2) (1) (2)",
+      "mordekaiser_hacecounter": "Malphite\nShen\nCho'gath\nCamile\nOrnn",
+      "mordekaiser_counters": "Rengar\nTryndamere\nIrelia\nWarwick\nKled"
+    },
+    {
+      "id": 8,
+      "wukong_runas": "1er cuadro: Precisión (4) (2) (1) (3) \n2do cuadro: Valor (0) (3) (1)\n3er cuadro: (2) (1) (2)",
+      "wukong_hacecounter": "Kayle\nUrgot\nShen\nNasus\nCho'gath",
+      "wukong_counters": "Renekton\nWarwick\nIllaoi\nKled\nMordekaiser"
+    },
+    {
+      "id": 9,
+      "sylas_runas": "1er cuadro: Precisión (4) (3) (2) (3) \n2do cuadro: Inspiración (0) (3) (1)\n3er cuadro: (1) (1) (2)",
+      "sylas_hacecounter": "Malphite\nNasus\nCho'gath\nKayle\nKennen",
+      "sylas_counters": "Tryndamere\nKled\nIrelia\nRenekton\nHeirmerdinger"
+    },
+    {
+      "id": 10,
+      "rumble_runas": "1er cuadro: Dominación (3) (1) (3) (4) \n2do cuadro: Brujería (3) (1) (0)\n3er cuadro: (3) (1) (2)",
+      "rumble_hacecounter": "Zac\nGragas\nSejuani\nNunu y Willump\nVolibear",
+      "rumble_counters": "Maestro yi"
+    },
+    {
+      "id": 11,
+      "urgot_runas": "1er cuadro: Precisión (1) (2) (2) (3) \n2do cuadro: Valor (0) (3) (1)\n3er cuadro: (1) (1) (2)",
+      "urgot_hacecounter": "Shen\nSylas\nMalphite\nKayle\nNasus",
+      "urgot_counters": "Tryndamere\nIrelia\nGangplank\nKled\nMordekaiser"
+    },
+    {
+      "id": 12,
+      "sylas_runas": "1er cuadro: Precisión (4) (3) (2) (3) \n2do cuadro: Inspiración (0) (3) (1)\n3er cuadro: (1) (1) (2)",
+      "sylas_hacecounter": "Malphite\nNasus\nCho'gath\nKayle\nKennen",
+      "sylas_counters": "Tryndamere\nKled\nIrelia\nRenekton\nHeirmerdinger"
+    },
+    {
+      "id": 13,
+      "leesin_runas": "1er cuadro: Precisión (4) (2) (1) (1) \n2do cuadro: Inspiración (2) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "leesin_hacecounter": "Rammus\nIvern\nZac\nAmumu\nNunu y Willump",
+      "leesin_counters": "Nocturne\nUdyr\nRengar\nOlaf"
+    },
+    {
+      "id": 14,
+      "amumu_runas": "1er cuadro: Precisión (4) (3) (2) (3) \n2do cuadro: Inspiración (0) (3) (1)\n3er cuadro: (1) (1) (2)",
+      "amumu_hacecounter": "Viego\nKayn\nDiana\nLee Sin",
+      "amumu_counters": "Maestro Yi\nnocturne\nDiana\nKindred\nViego"
+    },
+    {
+      "id": 15,
+      "jax_runas": "1er cuadro: Precisión (4) (2) (1) (3) \n2do cuadro: Inspiración (0) (3) (3)\n3er cuadro: (2) (1) (2)",
+      "jax_hacecounter": "Shen\nKayle\nSylas\nVolibear\nNasus",
+      "jax_counters": "Gangplank\nTryndamere\nRiven\nKled\nFiora"
+    },
+    {
+      "id": 16,
+      "kayn_runas": "1er cuadro: Precisión (4) (2) (2) (3) \n2do cuadro: Dominación (3) (0) (1)\n3er cuadro: (1) (1) (2)",
+      "kayn_hacecounter": "Rammus\nIvern\nZac\nAmumu\nSkarner",
+      "kayn_counters": "Maestro Yi\nNocturne\nNidalee\nRengar\nUdyr"
+    },
+    {
+      "id": 17,
+      "diana_runas": "1er cuadro: Precisión (4) (2) (1) (1) \n2do cuadro: Dominación (3) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "diana_hacecounter": "Rammus\nIvern\nZac\nAmumu\nGragas",
+      "diana_counters": "Irelia\nLucian\nZed\nYasuo"
+    },
+    {
+      "id": 18,
+      "ahri_runas": "1er cuadro: Dominación (1) (2) (3) (4) \n2do cuadro: Brujería (2) (1) (0)\n3er cuadro: (1) (1) (3)",
+      "ahri_hacecounter": "Galio\nMalhazar\nOrianna\nAkali",
+      "ahri_counters": "Irelia\nZed\nLucian\nYasuo\nTalon"
+    },
+    {
+      "id": 19,
+      "annie_runas": "1er cuadro: Dominación (1) (1) (3) (3) \n2do cuadro: Brujería (2) (0) (1)\n3er cuadro: (1) (1) (3)",
+      "annie_hacecounter": "Yasuo\nXerath\nQiyana\nAkali\nZed",
+      "annie_counters": "Viktor\nLux\nTalon\nKatarina\nVladimir"
+    },
+    {
+      "id": 20,
+      "zoe_runas": "1er cuadro: Dominación (1) (2) (3) (1) \n2do Inspiración (0) (3) (3)\n3er cuadro: (2) (1) (3)",
+      "zoe_hacecounter": "Sylas\nAkali\nGalio\nAhri",
+      "zoe_counters": "Irelia\nLucian\nZed\nYasuo\nViego"
+    },
+    {
+      "id": 21,
+      "lux_runas": "1er cuadro: Brujería (2) (2) (1) (1) \n2do cuadro: Brujería (0) (3) (1)\n3er cuadro: (1) (1) (2)",
+      "lux_hacecounter": "Alistar\nRell\nBraum\nLeona\nRakan",
+      "lux_counters": "Zilean\nKassadin\nSona\nGalio\nBraum"
+    },
+    {
+      "id": 22,
+      "katarina_runas": "1er cuadro: Precisión (4) (2) (2) (1) \n2do cuadro: Dominación (3) (0) (1)\n3er cuadro: (1) (1) (3)",
+      "katarina_hacecounter": "Syndra\nVeigar\nAzir\nZoe\nLucian",
+      "katarina_counters": "Corki\nKassadin\nKayle\nTryndamere\nGalio"
+    },
+    {
+      "id": 23,
+      "fizz_runas": "1er cuadro: Dominación (1) (3) (3) (1) \n2do cuadro: Precisión (2) (0) (1)\n3er cuadro: (2) (1) (3)",
+      "fizz_hacecounter": "Twisted fate\nXerath\nOrianna\nViktor\nEkko",
+      "fizz_counters": "Sylas\nKassadin\nGalio\nAhri\nMalzahar"
+    },
+    {
+      "id": 24,
+      "pantheon_runas": "1er cuadro: Precisión (4) (2) (2) (1) \n2do cuadro: Dominación (1) (0) (3)\n3er cuadro: (1) (1) (2)",
+      "pantheon_hacecounter": "Kassadin\nAkali\nQiyana\nYone\nYasuo",
+      "pantheon_counters": "Lulu\nXerath\nLeona\nAlistar\nNautilus"
+    },
+    {
+      "id": 25,
+      "zed_runas": "1er cuadro: Dominación (1) (2) (3) (4) \n2do cuadro: Brujería (0) (1) (1)\n3er cuadro: (1) (1) (3)",
+      "zed_hacecounter": "Lucian\nRyze\nCassiopeia\nVel'Koz\nAzir",
+      "zed_counters": "Aurelion Sol\nLux\nAnivia\nPantheon\nAnnie"
+    },
+    {
+      "id": 26,
+      "vayne_runas": "1er cuadro: Precisión (1) (2) (1) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "vayne_hacecounter": "Kalista\nAphelios\nLucian\nSivir\nKai'sa",
+      "vayne_counters": "Swain\nAshe\nMiss Fortune\nKog'Maw\nJhin"
+    },
+    {
+      "id": 27,
+      "blitzcrank_runas": "1er cuadro: Valor (2) (1) (3) (3) \n2do cuadro: Inspiración (0) (3) (1)\n3er cuadro: (3) (2) (2)",
+      "blitzcrank_hacecounter": "Xerath\nPantheon\nKarma\nJanna\nNami",
+      "blitzcrank_counters": "Zilean\nZyra\nSeraphine\nLeona\nMaokai"
+    },
+    {
+      "id": 28,
+      "yone_runas": "1er cuadro: Precisión (4) (2) (1) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (3)",
+      "yone_hacecounter": "Azir\nZoe\nRyze\nOrianna\nIrelia",
+      "yone_counters": "Annie\nAnivia\nPantheon\nVeigar\nNeeko"
+    },
+    {
+      "id": 29,
+      "galio_runas": "1er cuadro: Brujería (3) (3) (1) (3) \n2do cuadro: Inspiración (2) (0) (1)\n3er cuadro: (3) (1) (3)",
+      "galio_hacecounter": "Lucian\nIrelia\nVeigar\nAkali\nSyndra",
+      "galio_counters": "Malzahar\nAnivia\nCorki\nPantheon\nXerath\nAnnie"
+    },
+    {
+      "id": 30,
+      "veigar_runas": "1er cuadro: Dominación (1) (2) (3) (1) \n2do cuadro: Brujería (2) (1) (0)\n3er cuadro: (1) (1) (2)",
+      "veigar_hacecounter": "Viktor\nYone\nAkali\nEkko\nOrianna",
+      "veigar_counters": "Fizz\nMalzahar\nXerath\nVladimir\nKatarina"
+    },
+    {
+      "id": 31,
+      "xerath_runas": "1er cuadro: Brujería (2) (2) (1) (1) \n2do cuadro: Inspiración (0) (3) (1)\n3er cuadro: (1) (1) (2)",
+      "xerath_hacecounter": "Syndra\nOrianna\nAlistar\nBraum\nSwain",
+      "xerath_counters": "Corki\nFizz\nJanna\nEkko\nKassadin"
+    },
+    {
+      "id": 32,
+      "malzahar_runas": "1er cuadro: Brujería (1) (2) (1) (1) \n2do cuadro: Inspiración (2) (1) (0)\n3er cuadro: (1) (1) (3)",
+      "malzahar_hacecounter": "Lucian\nRyze\nZoe\nVladimir\nIrelia",
+      "malzahar_counters": "Anivia\nEkko\nTalon\nKassadin\nLux"
+    },
+    {
+      "id": 33,
+      "lucian_runas": "1er cuadro: Precisión (1) (3) (3) (1) \n2do cuadro: Inspiración (2) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "lucian_hacecounter": "Aphelios\nAkali\nIrelia\nVarus\nYone",
+      "lucian_counters": "Malzahar\nZed\nVladimir\nAhri\nViktor"
+    },
+    {
+      "id": 34,
+      "qiyana_runas": "1er cuadro: Dominación (1) (3) (3) (1) \n2do cuadro: Precisión (3) (0) (1)\n3er cuadro: (1) (1) (3)",
+      "qiyana_hacecounter": "Irelia\nLucian\nCorki\nOrianna\nAkali",
+      "qiyana_counters": "Pantheon\nViktor\nVel'koz\nYasuo\nEkko"
+    },
+    {
+      "id": 35,
+      "kassadin_runas": "1er cuadro: Precisión (3) (3) (2) (1) \n2do cuadro: Dominación (2) (0) (4)\n3er cuadro: (1) (1) (3)",
+      "kassadin_hacecounter": "Ryze\nIrelia\nOrianna\nAkali\nAnivia",
+      "kassadin_counters": "Pantheon\nTalon\nZed\nLissandra\nGalio"
+    },
+    {
+      "id": 36,
+      "anivia_runas": "1er cuadro: Dominación (1) (1) (3) (3) \n2do cuadro: Precisión (3) (0) (1)\n3er cuadro: (1) (1) (3)",
+      "anivia_hacecounter": "Irelia\nZoe\nRyze\nVladimir\nLeBlanc",
+      "anivia_counters": "Kassadin\nOrianna\nDiana\nKatarina\nEkko"
+    },
+    {
+      "id": 37,
+      "ryze_runas": "1er cuadro: Brujería (3) (2) (1) (3) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (1) (1) (3)",
+      "ryze_hacecounter": "Sylas\nOrianna\nAkali\nLucian\nLux",
+      "ryze_counters": "Malzahar\nKassadin\nYasuo\nAnivia\nTalon"
+    },
+    {
+      "id": 38,
+      "zilean_runas": "1er cuadro: Brujería (1) (2) (1) (1) \n2do cuadro: Inspiración (0) (3) (1)\n3er cuadro: (3) (1) (2)",
+      "zilean_hacecounter": "Braum\nAlistar\nRakan\nYuumi\nLeona",
+      "zilean_counters": "Pyke\nXerath\nSenna\nBrand\nZyra"
+    },
+    {
+      "id": 39,
+      "lissandra_runas": "1er cuadro: Dominación (1) (1) (3) (4) \n2do cuadro: Brujería (2) (1) (0)\n3er cuadro: (1) (1) (3)",
+      "lissandra_hacecounter": "LeBlanc\nFizz\nAkali\nYasuo\nKassadin",
+      "lissandra_counters": "Talon\nLux\nViktor\nQiyana\nVladimir"
+    },
+    {
+      "id": 40,
+      "twistedfate_runas": "1er cuadro: Dominación (1) (2) (3) (1) \n2do cuadro: Inspiración (0) (2) (3)\n3er cuadro: (2) (1) (3)",
+      "twistedfate_hacecounter": "Lucian\nIrelia\nRyze\nOrianna\nTalon",
+      "twistedfate_counters": "Fizz\nGalio\nMalzahar\nVladimir\nYasuo"
+    },
+    {
+      "id": 41,
+      "leblanc_runas": "1er cuadro: Dominación (1) (2) (3) (1) \n2do cuadro: Inspiración (0) (3) (3)\n3er cuadro: (2) (1) (3)",
+      "leblanc_hacecounter": "Irelia\nOrianna\nZoe\nRyze\nAkali",
+      "leblanc_counters": "Lissandra\nMalzahar\nCorki\nAhri\nAnivia"
+    },
+    {
+      "id": 42,
+      "corki_runas": "1er cuadro: Precisión (3) (3) (3) (1) \n2do cuadro: Inspiración (2) (3) (0)\n3er cuadro: (2) (1) (3)",
+      "corki_hacecounter": "Xerath\nAhri\nAkali\nLeBlanc\nVladimir",
+      "corki_counters": "Qiyana\nAnivia\nLux\nZed\nYone"
+    },
+    {
+      "id": 43,
+      "viego_runas": "1er cuadro: Precisión (4) (2) (1) (1) \n2do cuadro: Dominación (3) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "viego_hacecounter": "Ekko\nGalio\nZoe\nTrundle\nYasuo",
+      "viego_counters": "Morgana\nNunu y Willump\nAmumu\nSejuani\nElise"
+    },
+    {
+      "id": 44,
+      "gangplank_runas": "1er cuadro: Precisión (4) (2) (1) (1) \n2do cuadro: Inspiración (3) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "gangplank_hacecounter": "Akali\nrenekton\nOrnn\nSion\nFiora",
+      "gangplank_counters": "Urgot\nWukong\nMalphite\nShen\nRiven"
     }
+
+    
   ]
 }
