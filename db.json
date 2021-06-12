@@ -440,9 +440,9 @@
     },
     {
       "id": 74,
-      "jhin_runas": "1er cuadro: Dominación (4) (3) (3) (1) \n2do cuadro: Precisión (2) (1) (0)\n3er cuadro: (2) (1) (2)",
-      "jhin_hacecounter": "Dr. Mundo\nNidalee\nGraves\nKarthus\nRumble",
-      "jhin_counters": "Fiddlesticks\nVi\nSejuani\nXin Zhao\nElise"
+      "maestroyi_runas": "1er cuadro: Dominación (4) (3) (3) (1) \n2do cuadro: Precisión (2) (1) (0)\n3er cuadro: (2) (1) (2)",
+      "maestroyi_hacecounter": "Dr. Mundo\nNidalee\nGraves\nKarthus\nRumble",
+      "maestroyi_counters": "Fiddlesticks\nVi\nSejuani\nXin Zhao\nElise"
     },
     {
       "id": 75,
@@ -461,6 +461,12 @@
       "hecarim_runas": "1er cuadro: Precisión (4) (2) (1) (1) \n2do cuadro: Dominación (3) (0) (1)\n3er cuadro: (2) (1) (2)",
       "hecarim_hacecounter": "Dr. Mundo\nPoppy\nGragas\nShyvana\nLilia",
       "hecarim_counters": "Kindred\nShaco\nRek'Sai\nFiddlesticks\nXin Zhao"
+    },
+    {
+      "id": 78,
+      "vi_runas": "1er cuadro: Dominación (4) (3) (3) (3) \n2do cuadro: Precisión (2) (1) (0)\n3er cuadro: (2) (1) (2)",
+      "vi_hacecounter": "Dr. Mundo\nKindred\nMaestro Yi\nViego\nDiana",
+      "vi_counters": "Fiddlesticks\nXin Zhao\nVolibear\nKha'Zix\nShaco"
     }
   ]
 }
