@@ -263,6 +263,204 @@
       "gangplank_runas": "1er cuadro: Precisión (4) (2) (1) (1) \n2do cuadro: Inspiración (3) (0) (1)\n3er cuadro: (2) (1) (2)",
       "gangplank_hacecounter": "Akali\nrenekton\nOrnn\nSion\nFiora",
       "gangplank_counters": "Urgot\nWukong\nMalphite\nShen\nRiven"
+    },
+    {
+      "id": 45,
+      "samira_runas": "1er cuadro: Precisión (4) (4) (4) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "samira_hacecounter": "Tahm Kench\nAphelios\nKalista\nLucian\nCaitlyn",
+      "samira_counters": "Swain\nKog'maw\nMiss Fortune\nJhin\nJinx"
+    },
+    {
+      "id": 46,
+      "tristana_runas": "1er cuadro: Dominación (4) (2) (3) (1) \n2do cuadro: Precisión (2) (1) (0)\n3er cuadro: (2) (1) (2)",
+      "tristana_hacecounter": "Aphelios\nKalista\nLucian\nTwitch\nVarus",
+      "tristana_counters": "Swain\nKraven\nSivir\nVayne"
+    },
+    {
+      "id": 47,
+      "twitch_runas": "1er cuadro: Precisión (2) (3) (1) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "twitch_hacecounter": "Xayah\nLucian\nAphelios\nAshe\nVarus",
+      "twitch_counters": "Sivir\nVayne\nDraven\nTristana\nCaitlyn"
+    },
+    {
+      "id": 48,
+      "kai'sa_runas": "1er cuadro: Dominación (4) (2) (3) (1) \n2do cuadro: Precisión (3) (3) (0)\n3er cuadro: (2) (1) (2)",
+      "kai'sa_hacecounter": "Kalista\nLucian\nXayah\nAphelios\nSivir",
+      "kai'sa_counters": "Swain\nKog'Maw\nTahm Kench\nMiss Fortune\nAshe"
+    },
+    {
+      "id": 49,
+      "camile_runas": "1er cuadro: Valor (1) (3) (3) (1) \n2do cuadro: Inspiración (2) (3) (0)\n3er cuadro: (1) (1) (2)",
+      "camile_hacecounter": "Ornn\nPoppy\nRengar\nVolibear\nKled",
+      "camile_counters": "Warwick\nKennen\nSinged\nShen\nTeemo"
+    },
+    {
+      "id": 50,
+      "volibear_runas": "1er cuadro: Inspiración (1) (2) (2) (3) \n2do cuadro: Precisión (3) (0) (2)\n3er cuadro: (2) (1) (2)",
+      "volibear_hacecounter": "Irelia\nNidalee\nWarwick\nElise\nSylas",
+      "volibear_counters": "Gangplank\nSion\nRengar\nCamile\nJax"
+    },
+    {
+      "id": 51,
+      "jayce_runas": "1er cuadro: Precisión (4) (3) (1) (3) \n2do cuadro: Inspiración (2) (3) (0)\n3er cuadro: (1) (1) (2)",
+      "jayce_hacecounter": "Gangplank\nGwen\nZed\nKatarina\nGnar",
+      "jayce_counters": "Garen\nMalphite\nNasus\nShen\nYone"
+    },
+    {
+      "id": 52,
+      "sona_runas": "1er cuadro: Brujería (1) (2) (1) (1) \n2do cuadro: Precisión (3) (0) (1)\n3er cuadro: (1) (1) (2)",
+      "sona_hacecounter": "Alistar\nSeraphine\nYuumi\nKarma\nNami",
+      "sona_counters": "Senna\nLux\nTresh\nMorgana\nLeona"
+    },
+    {
+      "id": 53,
+      "swain_runas": "1er cuadro: Dominación (1) (1) (3) (4) \n2do cuadro: Inspiración (3) (3) (0)\n3er cuadro: (1) (1) (2)",
+      "swain_hacecounter": "Kai'Sa\nJinx\nVayne\nSamira\nJhin",
+      "swain_counters": "Seraphine\nLux\nXerath\nNami\nLulu"
+    },
+    {
+      "id": 54,
+      "draven_runas": "1er cuadro: Dominación (4) (2) (3) (1) \n2do cuadro: Precisión (3) (3) (0)\n3er cuadro: (2) (1) (2)",
+      "draven_hacecounter": "Xayah\nAphelios\nTwitch\nLucian\nTristana",
+      "draven_counters": "Kog'Maw\nJhin\nEzreal\nVayne"
+    },
+    {
+      "id": 55,
+      "rakan_runas": "1er cuadro: Valor (3) (2) (33) (3) \n2do cuadro: Dominación (0) (1) (4)\n3er cuadro: (1) (1) (2)",
+      "rakan_hacecounter": "Seraphine\nSwain\nKarma\nXerath\nPyke",
+      "rakan_counters": "Zilean\nZyra\nJanna\nNami\nSoraka"
+    },
+    {
+      "id": 56,
+      "sett_runas": "1er cuadro: Precisión (4) (2) (2) (3) \n2do cuadro: Valor (0) (2) (2)\n3er cuadro: (2) (1) (2)",
+      "sett_hacecounter": "Irelia\nRengar\nJayce\nYorick\nGwen",
+      "sett_counters": "Warwick\nSinged\nJax\nVolibear\nTrundle"
+    },
+    {
+      "id": 57,
+      "missfortune_runas": "1er cuadro: Precisión (4) (3) (3) (1) \n2do cuadro: Brujería (0) (2) (2)\n3er cuadro: (2) (1) (2)",
+      "missfortune_hacecounter": "Aphelios\nXayah\nLucian\nKai'Sa\nCaitlyn",
+      "missfortune_counters": "Ashe\nKog'Maw\nTristana\nEzreal"
+    },
+    {
+      "id": 58,
+      "ashe_runas": "1er cuadro: Precisión (2) (3) (3) (1) \n2do cuadro: Inspiración (0) (3) (2)\n3er cuadro: (2) (1) (2)",
+      "ashe_hacecounter": "Aphelios\nXayah\nMiss Fortune\nKai'Sa\nLucian",
+      "ashe_counters": "Twitch\nVayne\nJinx\nEzreal"
+    },
+    {
+      "id": 59,
+      "senna_runas": "1er cuadro: Insipiración (1) (2) (3) (2) \n2do cuadro: Precisión (3) (1) (0)\n3er cuadro: (2) (1) (2)",
+      "senna_hacecounter": "Galio\nAlistar\nTaric\nRell\nVel'Koz",
+      "senna_counters": "Zyra\nSoraka\nBardo\nSwain\nYuumi"
+    },
+    {
+      "id": 60,
+      "morgana_runas": "1er cuadro: Brujería (2) (2) (1) (1) \n2do cuadro: Inspiración (3) (3) (1)\n3er cuadro: (1) (1) (2)",
+      "morgana_hacecounter": "Alistar\nGalio\nLeona\nRell\nBraum",
+      "morgana_counters": "Evelynn\nDiana\nXin Zhao\nZyra\nYuumi"
+    },
+    {
+      "id": 61,
+      "xayah_runas": "1er cuadro: Precisión (2) (3) (3) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "xayah_hacecounter": "Aphelios\nSamira\nTristana\nLucian\nVayne",
+      "xayah_counters": "Ashe\nDraven\nTwitch\nJhin\nEzreal"
+    },
+    {
+      "id": 62,
+      "tresh_runas": "1er cuadro: Valor (2) (2) (3) (3) \n2do cuadro: Inspiración (0) (3) (1)\n3er cuadro: (3) (2) (2)",
+      "tresh_hacecounter": "Pantheon\nYuumi\nNeeko\nKarma\nPyke",
+      "tresh_counters": "Zyra\nBraum\nZilean\nSoraka\nMaokai"
+    },
+    {
+      "id": 63,
+      "ezreal_runas": "1er cuadro: Precisión (4) (3) (3) (1) \n2do cuadro: Brujería (2) (1) (0)\n3er cuadro: (2) (1) (2)",
+      "ezreal_hacecounter": "Xayah\nAphelios\nLucian\nTahm Kench\nKalista",
+      "ezreal_counters": "Ziggs\nSwain\nVayne\nKog'Maw\nSivir"
+    },
+    {
+      "id": 64,
+      "jinx_runas": "1er cuadro: Precisión (2) (3) (3) (1) \n2do cuadro: Dominación (2) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "jinx_hacecounter": "Aphelios\nLucian\nXayah\nSamira\nKai'Sa",
+      "jinx_counters": "Swain\nMiss Fortune\nSivir\nKalista\nEzreal"
+    },
+    {
+      "id": 65,
+      "jhin_runas": "1er cuadro: Dominación (3) (2) (3) (1) \n2do cuadro: Precisión (3) (3) (0)\n3er cuadro: (1) (1) (2)",
+      "jhin_hacecounter": "Lucian\nXayah\nAphelios\nDraven\nVarus",
+      "jhin_counters": "Swain\nSivir\nTristana\nVayne\nEzreal"
+    },
+    {
+      "id": 66,
+      "shaco_runas": "1er cuadro: Dominación (4) (3) (3) (3) \n2do cuadro: Precisión (2) (1) (1)\n3er cuadro: (2) (1) (2)",
+      "shaco_hacecounter": "Dr Mundo\nLillia\nNidalee\nElise\nIvern",
+      "shaco_counters": "Jarvan IV\nXin Zhao\nKarthus\nRek'Sai\nNunu y Willump"
+    },
+    {
+      "id": 67,
+      "drmundo_runas": "1er cuadro: Valor (1) (1) (2) (1) \n2do cuadro: Inspiración (2) (0) (2)\n3er cuadro: (2) (2) (2)",
+      "drmundo_hacecounter": "Tahm Kench\nJayce\nRenekton\ncho'gath\nHeirmerdinger",
+      "drmundo_counters": "Trundle\nRek'Sai\nVolibear\nShaco\nKayn"
+    },
+    {
+      "id": 68,
+      "zyra_runas": "1er cuadro: Brujería (2) (2) (1) (1) \n2do cuadro: Dominación (2) (0) (3)\n3er cuadro: (1) (1) (2)",
+      "zyra_hacecounter": "Morgana\nMaokai\nBardo\nBrand\nRakan",
+      "zyra_counters": "Xerath\nSoraka\nBlitzcrank\nYuumi\nNami"
+    },
+    {
+      "id": 69,
+      "taric_runas": "1er cuadro: Valor (3) (2) (3) (2) \n2do cuadro: Precisión (3) (2) (0)\n3er cuadro: (2) (2) (2)",
+      "taric_hacecounter": "Tresh\nNautilus",
+      "taric_counters": "Senna\nLulu\nYuumi"
+    },
+    {
+      "id": 70,
+      "vel'koz_runas": "1er cuadro: Brujería (2) (2) (1) (1) \n2do cuadro: Inspiración (2) (3) (1)\n3er cuadro: (1) (1) (2)",
+      "vel'koz_hacecounter": "Akali\nSylas\nNautilus\nTresh\nLeona",
+      "vel'koz_counters": "Zed\nYasuo\nPyke\nYuumi\nNami"
+    },
+    {
+      "id": 71,
+      "alistar_runas": "1er cuadro: Valor (2) (1) (3) (1) \n2do cuadro: Inspiración (1) (3) (1)\n3er cuadro: (0) (2) (2)",
+      "alistar_hacecounter": "Pantheon\nBlitzcrank\nLux\nRell\nTaric",
+      "alistar_counters": "Maokai\nJanna\nBrand\nLulu\nSona"
+    },
+    {
+      "id": 72,
+      "nasus_runas": "1er cuadro: Precisión (3) (2) (2) (3) \n2do cuadro: Valor (0) (2) (3)\n3er cuadro: (0) (2) (2)",
+      "nasus_hacecounter": "Renekton\nAkali\nTeemo\nJayce\nDr. Mundo",
+      "nasus_counters": "Camile\nGaren\nSinged\nShen\nWukong"
+    },
+    {
+      "id": 73,
+      "gangplank_runas": "1er cuadro: Valor (1) (1) (3) (1) \n2do cuadro: Inspiración (0) (3) (3)\n3er cuadro: (1) (1) (2)",
+      "gangplank_hacecounter": "Akali\nGnar\nJax\nRenekton\nGaren",
+      "gangplank_counters": "Urgot\nShen\nOrnn\nMordekaiser\nIrelia"
+    },
+    {
+      "id": 74,
+      "jhin_runas": "1er cuadro: Dominación (4) (3) (3) (1) \n2do cuadro: Precisión (2) (1) (0)\n3er cuadro: (2) (1) (2)",
+      "jhin_hacecounter": "Dr. Mundo\nNidalee\nGraves\nKarthus\nRumble",
+      "jhin_counters": "Fiddlesticks\nVi\nSejuani\nXin Zhao\nElise"
+    },
+    {
+      "id": 75,
+      "nidalee_runas": "1er cuadro: Dominación (1) (3) (3) (1) \n2do cuadro: Brujería (0) (1) (2)\n3er cuadro: (2) (1) (2)",
+      "nidalee_hacecounter": "Dr. Mundo\nGraves\nHecarim\nJarvan IV\nViego",
+      "nidalee_counters": "Zac\nFiddlesticks\nWarwick\nPoppy\nMaestro Yi"
+    },
+    {
+      "id": 76,
+      "zac_runas": "1er cuadro: Valor (2) (2) (1) (2) \n2do cuadro: Inspiración (2) (0) (1)\n3er cuadro: (0) (2) (1)",
+      "zac_hacecounter": "Dr. Mundo\nNidalee\nRengar\nViego\nLee Sin",
+      "zac_counters": "Ivern\nXin Zhao\nPoppy\nGragas\nDiana"
+    },
+    {
+      "id": 77,
+      "hecarim_runas": "1er cuadro: Precisión (4) (2) (1) (1) \n2do cuadro: Dominación (3) (0) (1)\n3er cuadro: (2) (1) (2)",
+      "hecarim_hacecounter": "Dr. Mundo\nPoppy\nGragas\nShyvana\nLilia",
+      "hecarim_counters": "Kindred\nShaco\nRek'Sai\nFiddlesticks\nXin Zhao"
     }
   ]
 }
